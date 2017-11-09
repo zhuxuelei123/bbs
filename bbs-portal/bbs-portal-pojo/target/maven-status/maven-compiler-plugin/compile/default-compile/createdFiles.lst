@@ -1,0 +1,5 @@
+com\portal\user\pojo\BbsUserExample.class
+com\portal\user\pojo\BbsUserExample$Criterion.class
+com\portal\user\pojo\BbsUserExample$Criteria.class
+com\portal\user\pojo\BbsUserExample$GeneratedCriteria.class
+com\portal\user\pojo\BbsUser.class
